@@ -1,0 +1,10 @@
+.first {
+  width: 200px;
+  object-fit: contain;
+}
+.table {
+  border: 4px groove black;
+}
+label {
+  display: block;
+}
