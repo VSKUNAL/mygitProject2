@@ -84,6 +84,7 @@ function MultiCheckBox({ rowId, imageSrc, altText }) {
           </tr>
         </tbody>
       </table>
+      <h2>Hello</h2>
     </>
   );
 }
